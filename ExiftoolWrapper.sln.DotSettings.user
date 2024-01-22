@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=306f010a_002D3199_002D4bb5_002Da8ea_002D54003c771d58/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ValidateSettings" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::CAAC72CB-1D06-4586-9CD5-2A65C771B1D0::net8.0::ExifrootWrapper.ValidateSettings&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CAAC72CB-1D06-4586-9CD5-2A65C771B1D0::net8.0::ExifrootWrapper.ImageMetaDataTests.ListFile&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CAAC72CB-1D06-4586-9CD5-2A65C771B1D0::net8.0::ExifrootWrapper.WrapperTests.GetInfo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CAAC72CB-1D06-4586-9CD5-2A65C771B1D0::net8.0::ExifrootWrapper.WrapperTests.GetTags&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CAAC72CB-1D06-4586-9CD5-2A65C771B1D0::net8.0::ExifrootWrapper.WrapperTests.GetFileType&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CAAC72CB-1D06-4586-9CD5-2A65C771B1D0::net8.0::ExifrootWrapper.WrapperTests.GetKeywords&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CAAC72CB-1D06-4586-9CD5-2A65C771B1D0::net8.0::ExifrootWrapper.ImageMetaDataTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

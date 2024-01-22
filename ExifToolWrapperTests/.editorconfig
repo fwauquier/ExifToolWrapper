@@ -1,0 +1,10 @@
+[*]
+resharper_use_configure_await_false_for_async_disposable_highlighting = none
+resharper_use_configure_await_false_highlighting = none
+resharper_nullable_warning_suppression_is_used_highlighting = none
+resharper_redundant_suppress_nullable_warning_expression_highlighting = none
+
+dotnet_diagnostic.ca1848.severity = none # Use the LoggerMessage delegates that accept a string message template and arguments
+dotnet_diagnostic.ca2211.severity = none # Non-constant fields should not be visible
+dotnet_diagnostic.ca2007.severity = none # Consider calling ConfigureAwait on the awaited task
+dotnet_diagnostic.cs1591.severity = none # Missing XML comment for publicly visible type or member
